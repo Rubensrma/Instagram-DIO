@@ -1,4 +1,4 @@
-# Recriando a página inicial do Instagram
+# Recriando a página inicial do Instagram:earth_americas:
 
 - **Prof. Gabriela Pinheiro**  - **Digital Innovation One**
 
@@ -11,6 +11,8 @@
 
 - Aprendizagem de Flexbox / Container.
 
-  :robot:  :rocket:
+  :robot:  :rocket:  :nerd_face:
+  
+  
 
   ​
