@@ -1,7 +1,6 @@
 # Recriando a página inicial do Instagram
 
-- **Prof. Gabriela Pinheiro**
-- **Digital Innovation One**
+- **Prof. Gabriela Pinheiro**  - **Digital Innovation One**
 
 
 
