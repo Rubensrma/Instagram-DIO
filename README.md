@@ -16,7 +16,9 @@
   
   
  
- ##Resolução do Projeto:computer:
+ **Resolução do Projeto:computer:
+ 
+ 
   
   <p align="center">
     <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram1.png">
