@@ -16,11 +16,21 @@
   
   
  
- **Resolução do Projeto:computer:**
+ **Resolução do Projeto:technologist:**
  
  
   
-  <p align="center">
+  
+<p align="center">
     <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram1.png">
-  </p>
+</p>
   
+ 
+ <p align="center">
+    <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram3.jpeg">
+</p>
+ 
+ 
+  <p align="center">
+    <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram3.jpeg">
+</p>
