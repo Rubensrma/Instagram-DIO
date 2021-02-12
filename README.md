@@ -32,5 +32,5 @@
  
  
   <p align="center">
-    <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram3.jpeg">
+    <img windth="470" src="https://github.com/Rubensrma/Instagram-DIO/blob/master/img/Instagram2.png">
 </p>
