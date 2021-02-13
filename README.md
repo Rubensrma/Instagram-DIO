@@ -1,6 +1,6 @@
 # Recriando a página inicial do Instagram:earth_americas:
 
-- **Prof. Gabriela Pinheiro**  - **Digital Innovation One**
+- **Prof. Gabriela Pinheiro**  - **Digital Innovation One.**
 
 
 
